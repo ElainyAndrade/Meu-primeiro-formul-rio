@@ -1,0 +1,52 @@
+.input-padrao{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+    
+    
+}
+
+.input-msg{
+    display: block;
+    margin: 0 0 20px;
+    padding: 20px 25px;
+    width: 50%;
+}
+
+div{
+    display: block;
+}
+
+button{
+    display: block;
+    padding: 10px;
+    margin: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    white-space: nowrap;
+    display: block;
+}
+
+
+
+fieldset {
+    width: 600px;
+    height: 500px;
+}
+
+form {
+    font-family: 'Franklin Gothic Medium';
+    
+}
+
+
+
+
+
+
+
+
+
